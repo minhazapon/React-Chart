@@ -1,0 +1,52 @@
+.route-text{
+
+   font-size: 30px;
+   font-style: oblique;
+   color:  rgb(0, 72, 155);
+   font-weight: bold;
+
+}
+.nav-flex{
+
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+.price-box{
+   
+      margin-top: 50px;
+   margin-bottom: 50px;
+     margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+.name-text{
+
+   font-size: 20px;
+
+}
+.title-text{
+
+   font-size: 15px;
+   color: rgba(128, 128, 128, 0.726);
+
+}
+.title-text1{
+
+  font-size: 15px;
+  color: rgb(0, 217, 255);
+
+}
+.title-text2{
+
+  font-weight: 500;
+
+}
+.bg-color-card{
+
+   background-color:  rgba(128, 128, 128, 0.068);
+   padding: 20px;
+   border-radius: 10px;
+
+}

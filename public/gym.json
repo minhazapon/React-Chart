@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Dumbbell Set",
+      "title": "Adjustable Dumbbell Set",
+      "paragraph": "A premium-quality adjustable dumbbell set with multiple weight options to fit your workout needs.",
+      "price": 79.99
+    },
+    {
+      "id": 2,
+      "name": "Yoga Mat",
+      "title": "Non-Slip Yoga Mat",
+      "paragraph": "Durable and eco-friendly non-slip yoga mat, perfect for all types of workouts and stretches.",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "Kettlebell",
+      "title": "Cast Iron Kettlebell",
+      "paragraph": "Heavy-duty kettlebell ideal for strength training, cardio, and functional fitness routines.",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "name": "Resistance Bands",
+      "title": "Set of 5 Resistance Bands",
+      "paragraph": "Versatile resistance bands for strength training, stretching, and rehabilitation exercises.",
+      "price": 19.99
+    },
+    {
+      "id": 5,
+      "name": "Treadmill",
+      "title": "Folding Electric Treadmill",
+      "paragraph": "Compact and efficient treadmill with adjustable speed settings for indoor running and walking.",
+      "price": 599.99
+    },
+    {
+      "id": 6,
+      "name": "Exercise Ball",
+      "title": "Anti-Burst Exercise Ball",
+      "paragraph": "Durable exercise ball for core training, balance improvement, and yoga workouts.",
+      "price": 24.99
+    },
+    {
+      "id": 7,
+      "name": "Pull-Up Bar",
+      "title": "Doorway Pull-Up Bar",
+      "paragraph": "Sturdy pull-up bar for home use, supporting a variety of upper body exercises.",
+      "price": 39.99
+    },
+    {
+      "id": 8,
+      "name": "Foam Roller",
+      "title": "High-Density Foam Roller",
+      "paragraph": "Effective foam roller for muscle recovery, stretching, and improving flexibility.",
+      "price": 14.99
+    },
+    {
+      "id": 9,
+      "name": "Jump Rope",
+      "title": "Adjustable Speed Jump Rope",
+      "paragraph": "Lightweight jump rope with adjustable length for cardio and agility training.",
+      "price": 9.99
+    },
+    {
+      "id": 10,
+      "name": "Weight Bench",
+      "title": "Adjustable Weight Bench",
+      "paragraph": "Multi-purpose weight bench with adjustable incline for a variety of exercises.",
+      "price": 149.99
+    },
+    {
+      "id": 11,
+      "name": "Gym Gloves",
+      "title": "Padded Gym Gloves",
+      "paragraph": "Comfortable and durable gym gloves to protect your hands during workouts.",
+      "price": 14.99
+    },
+    {
+      "id": 12,
+      "name": "Barbell",
+      "title": "Olympic Barbell",
+      "paragraph": "Professional-grade Olympic barbell suitable for weightlifting and powerlifting.",
+      "price": 199.99
+    },
+    {
+      "id": 13,
+      "name": "Ankle Weights",
+      "title": "Adjustable Ankle Weights",
+      "paragraph": "Comfortable ankle weights to add resistance to your workouts and enhance strength.",
+      "price": 24.99
+    },
+    {
+      "id": 14,
+      "name": "Ab Roller",
+      "title": "Core Strength Ab Roller",
+      "paragraph": "Compact and effective ab roller for building core strength and toning abs.",
+      "price": 19.99
+    },
+    {
+      "id": 15,
+      "name": "Fitness Tracker",
+      "title": "Smart Fitness Tracker",
+      "paragraph": "Advanced fitness tracker to monitor your steps, heart rate, and calories burned.",
+      "price": 99.99
+    },
+    {
+      "id": 16,
+      "name": "Medicine Ball",
+      "title": "Weighted Medicine Ball",
+      "paragraph": "Versatile medicine ball for functional fitness and strength training.",
+      "price": 34.99
+    },
+    {
+      "id": 17,
+      "name": "Battle Rope",
+      "title": "Heavy Duty Battle Rope",
+      "paragraph": "Durable battle rope for high-intensity cardio and strength training workouts.",
+      "price": 89.99
+    },
+    {
+      "id": 18,
+      "name": "Power Rack",
+      "title": "Adjustable Power Rack",
+      "paragraph": "Robust power rack for heavy lifting, squats, and pull-ups in your home gym.",
+      "price": 399.99
+    },
+    {
+      "id": 19,
+      "name": "Spin Bike",
+      "title": "Indoor Spin Bike",
+      "paragraph": "High-performance spin bike with adjustable resistance for intense cardio sessions.",
+      "price": 349.99
+    },
+    {
+      "id": 20,
+      "name": "Weight Plates",
+      "title": "Rubber Coated Weight Plates",
+      "paragraph": "Durable and versatile weight plates for strength training and fitness.",
+      "price": 59.99
+    }
+  ]
+  
